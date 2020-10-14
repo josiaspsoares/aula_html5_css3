@@ -1,0 +1,67 @@
+body{
+    background: rgb(161, 229, 238);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+header{
+    margin-top: 70px;
+}
+
+h1{
+    color: rgb(16, 15, 37);
+    background: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 4%;
+    padding: 2%;
+    border-color: black;
+    border-radius: 5px;
+    border-style: groove
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+
+div{
+    float: inline-start;
+    display: inline;
+}
+
+img{
+    margin-bottom: 20px;
+}
+
+footer{
+    background: white;
+    padding-left: 35%;
+    padding-right: 35%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: groove
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 400px;
+    height: 230px;
+    width: 320px;
+    align-content: center;
+}
+
+.logo{
+    width: 5%;
+}
+
+.subtitle{
+    text-align: center;
+    color: grey;
+}
